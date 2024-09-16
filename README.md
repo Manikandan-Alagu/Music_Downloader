@@ -33,8 +33,8 @@ You can install the necessary Python packages using the `requirements.txt` file 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/playlist-audio-downloader.git
-   cd playlist-audio-downloader
+   git clone https://github.com/Manikandan-Alagu/YouTube-Playlist-Audio-Downloader.git
+   cd YouTube-Playlist-Audio-Downloader
    ```
 
 2. **Install required dependencies**:
@@ -52,7 +52,7 @@ You can install the necessary Python packages using the `requirements.txt` file 
    After installing the dependencies, run the script by typing:
 
    ```bash
-   python downloader.py
+   python app.py
    ```
 
 2. **Provide the Playlist URL**:
